@@ -25,7 +25,7 @@ export default function AppleID() {
       id: 4,
       text: "MacOS Portfolio",
       img: "/projects/04.png",
-      link: "https://prakhar-gupta-macos.vercel.app/",
+      link: "https://daksh-portfolio-one.vercel.app/",
     },
     {
       id: 5,
@@ -60,7 +60,7 @@ export default function AppleID() {
         <div className='grids grid-1' id='home'>
           <div className='inner'>
             <h1> Daksh Kriplani</h1>
-            <h2> UG at BITS PILANI, I am a full Stack Developer?? kind of.. </h2>
+            <h2> UG at BITS PILANI, I am a full Stack Dev. </h2>
 
             <p>
               Hi, I'm Daksh Kriplani,4th year student at BITS PILANI, a frontend and backend developer who loves making
