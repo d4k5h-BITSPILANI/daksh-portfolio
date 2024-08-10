@@ -68,7 +68,7 @@ export default function Settings() {
               <FaUserCircle size={50} />
             </div>
             <div className='inner'>
-              <p> Prakhar Gupta </p>
+              <p> Daksh Kriplani</p>
               <p> Apple ID </p>
             </div>
           </div>
